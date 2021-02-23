@@ -1,6 +1,6 @@
 # gutbugs_microbiome
 
-This repository contains data processing script for the Gut Bugs Trial microbiome analysis. 
+This repository contains the data processing script for the Gut Bugs Trial microbiome analysis. 
 
 The Gut Bugs Trial was a double-blinded randomised placebo-controlled trial that assessed the efficacy of fecal microbiome transplantation (FMT) to treat adolescent obesity and improve metabolism. The Gut Bugs Trial recruited 87 adolescents (aged 14-18 years) with a BMI >30 kg/m2 and randomised them 1:1 to receive a single dose of 28 FMT or placebo capsules. FMT capsules contained concentrated fecal material derived from 4 healthy same-sex lean donors (7 capsules per donor). Placebo capsules contained saline. Recipients were clinically assessed at baseline, and at 6-, 12-, and 26-weeks post-treatment. The primary objective was a change in BMI SDS at week 6. Secondary objectives included a variety of metabolic health parameters, body composition, and gut microbiome alterations. 
 
