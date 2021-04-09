@@ -7,5 +7,7 @@ The Gut Bugs Trial was a double-blinded randomised placebo-controlled trial that
 Donor and recipient stool samples collected at each clinical assessment underwent shotgun metagenomic sequencing. In total, 381 metagenomes were analysed. 
 
 Trial protocol: http://dx.doi.org/10.1136/bmjopen-2018-026174
+
 Trial results: http://dx.doi.org/10.1001/jamanetworkopen.2020.30415
+
 Microbiome results: http://dx.doi.org/10.21203/rs.3.rs-97360/v1
