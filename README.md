@@ -10,4 +10,4 @@ Trial protocol: http://dx.doi.org/10.1136/bmjopen-2018-026174
 
 Trial results: http://dx.doi.org/10.1001/jamanetworkopen.2020.30415
 
-Microbiome results: http://dx.doi.org/10.21203/rs.3.rs-97360/v1
+Microbiome results: https://doi.org/10.1186/s40168-021-01060-7
